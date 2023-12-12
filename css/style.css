@@ -1,0 +1,163 @@
+body {
+    margin: 0 auto;
+}
+
+.banner-contaner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url(../images//donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+
+}
+
+#tittle-text {
+    font-size: 40px;
+}
+
+.banner {
+    padding-top: 100px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+
+
+}
+
+.donate {
+    background-color: rgb(230, 111, 7);
+    color: white;
+    width: 150px;
+    text-align: center;
+    height: 60px;
+    margin: 0 auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.donate-amount-container {
+    text-align: center;
+}
+
+.amount-text {
+    text-align: center;
+}
+
+.amount-box-container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.box {
+    margin: 30px;
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+#single-500-box {
+    border: 2px solid red;
+    background-color: rgba(226, 43, 43, 0.219);
+
+}
+
+.donate-text {
+    text-align: center;
+}
+
+.Donate-plan-box-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.donate-plan-box {
+    padding: 20px;
+    margin: 10px;
+
+}
+
+#box-one {
+    background-color: rgba(166, 179, 190, 0.448);
+}
+
+#box-two {
+    background-color: rgba(236, 116, 116, 0.371);
+}
+
+#box-three {
+    background-color: rgba(255, 228, 196, 0.407);
+}
+
+.donate-main-container {
+    margin-top: 200px;
+}
+
+.depend-donate-container {
+    width: 75%;
+    margin: 0 auto;
+
+}
+
+.donate-container {
+    display: flex;
+    align-items: center;
+}
+
+.depend-box {
+    width: 45%;
+}
+
+.depend-box img {
+    width: 500px;
+}
+
+.input-text {
+    border: none;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+#email {
+    background-color: rgb(197, 246, 246);
+
+}
+
+#btn {
+    background-color: rgba(165, 42, 42, 0.785);
+}
+
+.update-container {
+    margin-top: 100px;
+    text-align: center;
+    margin-top: 200px;
+
+}
+
+.input-container {
+    background-color: beige;
+    width: 50%;
+    margin: 0 auto;
+    padding: 100px;
+    border-radius: 20px;
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+    color: whitesmoke;
+    margin-top: 200px;
+
+}
+
+#footer-tag {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+}
